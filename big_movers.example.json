@@ -1,0 +1,15 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-07-06T21:35:00+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-07-06",
+    "count": 2,
+    "movers": [
+      {"ticker": "SMCI", "name": "SMCI", "move_pct": 14.2, "last": 812.4, "market_cap": 47000000000.0, "reason": "Raised guidance on AI server demand", "reason_url": "https://example.com/smci"},
+      {"ticker": "PARA", "name": "PARA", "move_pct": -11.8, "last": 10.9, "market_cap": 7000000000.0, "reason": "Merger talks reportedly stalled", "reason_url": "https://example.com/para"}
+    ]
+  }
+}
