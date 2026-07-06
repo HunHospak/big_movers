@@ -1,0 +1,25 @@
+service: big_movers
+schema_version: "1.0"
+
+# Consumers treat the feed as stale after this many hours.
+ttl_hours: 30
+
+# No penny stocks: require a minimum market cap (USD). Set to 0 to disable.
+min_market_cap_usd: 2000000000
+
+# Absolute daily move threshold (percent) to be considered a "big mover".
+move_threshold_pct: 10.0
+
+# Universe: newline-separated tickers in universe.txt (curated large/mid caps).
+universe_file: universe.txt
+
+# News enrichment (optional). If NEWS_API_KEY env var is missing, movers are still
+# published without a reason headline (status may become "partial").
+news:
+  enabled: true
+  provider: newsapi          # newsapi.org
+  api_key_env: NEWS_API_KEY   # the NAME of the env var; the value lives in .env / CI secret
+  max_movers_enriched: 25    # cap headline lookups per run
+
+# Where the feed is published (informational; used by the workflow / consumers).
+feed_url: "https://HunHospak.github.io/big_movers/big_movers.json"

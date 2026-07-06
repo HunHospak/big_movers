@@ -1,0 +1,38 @@
+name: publish-big-movers
+
+on:
+  schedule:
+    # Weekdays ~ after US close (21:30 UTC). Adjust to taste.
+    - cron: "30 21 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r requirements.txt
+
+      - name: Build feed
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: |
+          python src/build_feed.py
+          python scripts/post_text.py
+
+      - name: Publish out/ to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./out
+          # The feed will be served at:
+          #   https://<user>.github.io/big_movers/big_movers.json
