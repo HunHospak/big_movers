@@ -1,30 +1,21 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-08-07T01:04:19+00:00",
+  "generated_at": "2026-08-07T22:07:58+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
     "as_of": "2026-08-07",
-    "count": 2,
+    "count": 1,
     "movers": [
       {
-        "ticker": "DDOG",
-        "name": "DDOG",
-        "move_pct": -19.03,
-        "last": 229.29,
-        "market_cap": 81618109345.94057,
-        "reason": "Stocks Settle Sharply Higher as Middle East Tensions Ease",
-        "reason_url": "https://www.barchart.com/story/news/3620237/stocks-settle-sharply-higher-as-middle-east-tensions-ease"
-      },
-      {
-        "ticker": "WDC",
-        "name": "WDC",
-        "move_pct": -13.03,
-        "last": 451.52,
-        "market_cap": 155630872002.329,
-        "reason": "(PR) WD Reports Fiscal Fourth Quarter and Fiscal Year 2026 Financial Results",
-        "reason_url": "https://www.techpowerup.com/351394/wd-reports-fiscal-fourth-quarter-and-fiscal-year-2026-financial-results"
+        "ticker": "PLTR",
+        "name": "PLTR",
+        "move_pct": 10.32,
+        "last": 172.01,
+        "market_cap": 413350075944.4055,
+        "reason": "Is Michael Burry Wrong About Everything?",
+        "reason_url": "https://247wallst.com/investing/2026/08/06/is-michael-burry-wrong-about-everything/"
       }
     ]
   }
