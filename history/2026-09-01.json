@@ -1,7 +1,7 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-09-01T00:44:59+00:00",
+  "generated_at": "2026-09-01T23:29:02+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
