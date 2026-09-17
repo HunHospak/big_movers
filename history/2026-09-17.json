@@ -1,11 +1,11 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-09-16T23:45:22+00:00",
+  "generated_at": "2026-09-17T23:37:33+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-09-16",
+    "as_of": "2026-09-17",
     "count": 0,
     "movers": []
   }
