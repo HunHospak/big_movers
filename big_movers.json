@@ -1,31 +1,12 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-09-22T00:14:36+00:00",
+  "generated_at": "2026-09-22T23:44:12+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
     "as_of": "2026-09-22",
-    "count": 2,
-    "movers": [
-      {
-        "ticker": "MSTR",
-        "name": "MSTR",
-        "move_pct": 16.39,
-        "last": 153.92,
-        "market_cap": 66941959710.0,
-        "reason": "Strategy\u2019s MSTR tops NASDAQ-100 with 48% gain over the past month",
-        "reason_url": "https://cryptobriefing.com/mstr-tops-nasdaq-100-monthly-gain/"
-      },
-      {
-        "ticker": "COIN",
-        "name": "COIN",
-        "move_pct": 11.66,
-        "last": 194.25,
-        "market_cap": 53044413369.15,
-        "reason": "Every Zach Cregger Horror Movie, Ranked (Including Resident Evil)",
-        "reason_url": "https://www.slashfilm.com/2262864/zach-cregger-horror-movies-ranked/"
-      }
-    ]
+    "count": 0,
+    "movers": []
   }
 }
