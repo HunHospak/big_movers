@@ -1,21 +1,21 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-10-29T01:09:53+00:00",
+  "generated_at": "2026-10-30T01:16:45+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-10-29",
+    "as_of": "2026-10-30",
     "count": 1,
     "movers": [
       {
-        "ticker": "BA",
-        "name": "BA",
-        "move_pct": -10.69,
-        "last": 168.18,
-        "market_cap": 132450082971.59999,
-        "reason": "Machine learning for advancing gamma source localization in a human phantom using NaI (Tl) detector spectra in radiobioassay",
-        "reason_url": "https://www.nature.com/articles/s41598-026-78522-1.pdf"
+        "ticker": "ORCL",
+        "name": "ORCL",
+        "move_pct": 10.73,
+        "last": 144.54,
+        "market_cap": 423076300354.44,
+        "reason": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries \u2014 GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+        "reason_url": "https://biztoc.com/x/43dd20dceedbb4bc"
       }
     ]
   }

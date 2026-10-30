@@ -1,0 +1,22 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-10-30T01:16:45+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-10-30",
+    "count": 1,
+    "movers": [
+      {
+        "ticker": "ORCL",
+        "name": "ORCL",
+        "move_pct": 10.73,
+        "last": 144.54,
+        "market_cap": 423076300354.44,
+        "reason": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries \u2014 GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+        "reason_url": "https://biztoc.com/x/43dd20dceedbb4bc"
+      }
+    ]
+  }
+}
