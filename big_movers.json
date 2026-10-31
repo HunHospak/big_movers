@@ -1,21 +1,39 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T01:16:45+00:00",
+  "generated_at": "2026-10-31T00:58:11+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-10-30",
-    "count": 1,
+    "as_of": "2026-10-31",
+    "count": 3,
     "movers": [
       {
-        "ticker": "ORCL",
-        "name": "ORCL",
-        "move_pct": 10.73,
-        "last": 144.54,
-        "market_cap": 423076300354.44,
-        "reason": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries \u2014 GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
-        "reason_url": "https://biztoc.com/x/43dd20dceedbb4bc"
+        "ticker": "NOW",
+        "name": "NOW",
+        "move_pct": -26.95,
+        "last": 109.67,
+        "market_cap": 109105835040.0,
+        "reason": "We went on holiday with our neighbours and swapped families - it tore us apart",
+        "reason_url": "https://www.bbc.co.uk/news/articles/cxddv1vygpvmo"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "MRVL",
+        "move_pct": -13.24,
+        "last": 218.34,
+        "market_cap": 176505585993.2,
+        "reason": "Lumentum stock jumps on report of possible merger with Marvell",
+        "reason_url": "https://biztoc.com/x/6f98877a1844b687"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "GOOGL",
+        "move_pct": -12.64,
+        "last": 283.82,
+        "market_cap": 3440352959999.9995,
+        "reason": "Jim Cramer says Wall Street is punishing the wrong tech stocks",
+        "reason_url": "https://www.cnbc.com/2026/10/29/jim-cramer-earnings-guilt-by-association.html"
       }
     ]
   }
