@@ -1,0 +1,22 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-11-03T03:00:54+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-11-03",
+    "count": 1,
+    "movers": [
+      {
+        "ticker": "MRVL",
+        "name": "MRVL",
+        "move_pct": -12.72,
+        "last": 171.41,
+        "market_cap": 154046961005.4846,
+        "reason": "Prediction: This Under-the-Radar AI Stock Could Have a Big 2030 Ahead",
+        "reason_url": "https://biztoc.com/x/be5971323ada72ce"
+      }
+    ]
+  }
+}
