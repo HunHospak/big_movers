@@ -1,12 +1,31 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-11-05T01:42:02+00:00",
+  "generated_at": "2026-11-06T01:43:27+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-05",
-    "count": 0,
-    "movers": []
+    "as_of": "2026-11-06",
+    "count": 2,
+    "movers": [
+      {
+        "ticker": "DDOG",
+        "name": "DDOG",
+        "move_pct": -14.42,
+        "last": 188.72,
+        "market_cap": 62694499190.4,
+        "reason": "Dow jumps over 1,500 points in response to Democrats' control of Congress",
+        "reason_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rallies-1500-points-sp-500-nasdaq-midterm-elections-democrats-sweep-201207340.html"
+      },
+      {
+        "ticker": "MRNA",
+        "name": "MRNA",
+        "move_pct": 13.11,
+        "last": 258.38,
+        "market_cap": 96399497757.94,
+        "reason": "Repurposed endogenous virus-like vesicles mediate dendritic cell long-range antigen presentation and T cell activation for enhanced cancer vaccination",
+        "reason_url": "https://www.nature.com/articles/s41565-026-02312-z"
+      }
+    ]
   }
 }
