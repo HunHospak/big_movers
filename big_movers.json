@@ -1,30 +1,156 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T01:43:27+00:00",
+  "generated_at": "2026-11-07T01:04:10+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-06",
-    "count": 2,
+    "as_of": "2026-11-07",
+    "count": 16,
     "movers": [
       {
-        "ticker": "DDOG",
-        "name": "DDOG",
-        "move_pct": -14.42,
-        "last": 188.72,
-        "market_cap": 62694499190.4,
-        "reason": "Dow jumps over 1,500 points in response to Democrats' control of Congress",
-        "reason_url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-rallies-1500-points-sp-500-nasdaq-midterm-elections-democrats-sweep-201207340.html"
+        "ticker": "MU",
+        "name": "MU",
+        "move_pct": -17.46,
+        "last": 656.39,
+        "market_cap": 780682016280.0,
+        "reason": "Get To Know A Marquette Men\u2019s Basketball Opponent: Detroit Mercy",
+        "reason_url": "https://www.anonymouseagle.com/marquette-mens-basketball/40573/golden-eagles-game-preview-detroit-mercy-titans-rock-montgomery-spratt"
       },
       {
-        "ticker": "MRNA",
-        "name": "MRNA",
-        "move_pct": 13.11,
-        "last": 258.38,
-        "market_cap": 96399497757.94,
-        "reason": "Repurposed endogenous virus-like vesicles mediate dendritic cell long-range antigen presentation and T cell activation for enhanced cancer vaccination",
-        "reason_url": "https://www.nature.com/articles/s41565-026-02312-z"
+        "ticker": "WDC",
+        "name": "WDC",
+        "move_pct": -17.35,
+        "last": 267.63,
+        "market_cap": 98738991896.81999,
+        "reason": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+        "reason_url": "https://finance.yahoo.com/markets/article/chip-stocks-slaughtered-as-wall-street-suffers-worst-post-midterm-day-since-1896-213204256.html"
+      },
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "move_pct": -17.26,
+        "last": 404.4,
+        "market_cap": 736464779189.04,
+        "reason": "HP OmniBook 3: 16\" FHD+ IPS Touch, Ryzen AI 5 330, 16GB LPDDR5, 512GB SSD $599.99 at Costco",
+        "reason_url": "https://slickdeals.net/f/20264265-hp-omnibook-3-16-fhd-ips-touch-ryzen-ai-5-330-16gb-lpddr5-512gb-ssd-599-99-at-costco"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "MRVL",
+        "move_pct": -16.43,
+        "last": 133.55,
+        "market_cap": 127046942538.4,
+        "reason": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+        "reason_url": "https://finance.yahoo.com/markets/article/chip-stocks-slaughtered-as-wall-street-suffers-worst-post-midterm-day-since-1896-213204256.html"
+      },
+      {
+        "ticker": "LRCX",
+        "name": "LRCX",
+        "move_pct": -16.36,
+        "last": 185.2,
+        "market_cap": 250835499119.28,
+        "reason": "$2.5T has been wiped from US stocks",
+        "reason_url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks"
+      },
+      {
+        "ticker": "STX",
+        "name": "STX",
+        "move_pct": -16.25,
+        "last": 466.53,
+        "market_cap": 105825375637.91,
+        "reason": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+        "reason_url": "https://finance.yahoo.com/markets/article/chip-stocks-slaughtered-as-wall-street-suffers-worst-post-midterm-day-since-1896-213204256.html"
+      },
+      {
+        "ticker": "DELL",
+        "name": "DELL",
+        "move_pct": -14.89,
+        "last": 316.91,
+        "market_cap": 208883562757.49997,
+        "reason": "From the Columbia River Gorge to Oregon\u2019s High Desert: Where to Play, Eat, and Stay East of Portland",
+        "reason_url": "https://matadornetwork.com/read/oregon-road-trip-columbia-gorge-high-desert/"
+      },
+      {
+        "ticker": "AMAT",
+        "name": "AMAT",
+        "move_pct": -13.58,
+        "last": 319.25,
+        "market_cap": 264041773247.745,
+        "reason": "$2.5T has been wiped from US stocks",
+        "reason_url": "https://finlaws.substack.com/p/25t-has-been-wiped-from-us-stocks"
+      },
+      {
+        "ticker": "ARM",
+        "name": "ARM",
+        "move_pct": -13.08,
+        "last": 166.72,
+        "market_cap": 186843400000.0,
+        "reason": "I wanted my disabled daughter to find love. So I helped her write flirty texts and even went on dates with her. Doctors had told me to plan her funeral after a horrific car crash, so now I'll do anything to make sure she can still live a full life",
+        "reason_url": "https://www.dailymail.com/lifestyle/family-parenting/article-16269531/disabled-daughter-love-texts-dates-car-crash.html"
+      },
+      {
+        "ticker": "ON",
+        "name": "ON",
+        "move_pct": -11.55,
+        "last": 63.01,
+        "market_cap": 24645600998.59,
+        "reason": "Klein Collins HS standout recognized as one of Houston's elite 15 female basketball players",
+        "reason_url": "https://abc13.com/post/abc13-athlete-week-klein-collins-hs-senior-named-among-houstons-elite-15-female-basketball-players/20018291/"
+      },
+      {
+        "ticker": "ANET",
+        "name": "ANET",
+        "move_pct": -10.82,
+        "last": 159.16,
+        "market_cap": 215789118818.0,
+        "reason": "Was Michael Burry right about the AI bubble? Wall Street loses $2 trillion as AI and chip stocks plunge: Why are Tesla, Palantir, AMD, Broadcom and SanDisk crashing?",
+        "reason_url": "https://economictimes.indiatimes.com/news/international/us/was-michael-burry-right-about-the-ai-bubble-wall-street-loses-2-trillion-as-ai-and-chip-stocks-plunge-why-are-tesla-palantir-amd-broadcom-and-sandisk-crashing/articleshow/135581323.cms"
+      },
+      {
+        "ticker": "TSM",
+        "name": "TSM",
+        "move_pct": -10.78,
+        "last": 353.1,
+        "market_cap": 1947209803440.72,
+        "reason": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+        "reason_url": "https://finance.yahoo.com/markets/article/chip-stocks-slaughtered-as-wall-street-suffers-worst-post-midterm-day-since-1896-213204256.html"
+      },
+      {
+        "ticker": "TSLA",
+        "name": "TSLA",
+        "move_pct": -10.77,
+        "last": 343.69,
+        "market_cap": 1415956951416.12,
+        "reason": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
+        "reason_url": "https://finance.yahoo.com/markets/article/chip-stocks-slaughtered-as-wall-street-suffers-worst-post-midterm-day-since-1896-213204256.html"
+      },
+      {
+        "ticker": "TXN",
+        "name": "TXN",
+        "move_pct": -10.7,
+        "last": 278.15,
+        "market_cap": 253575738188.96002,
+        "reason": "migkit added to PyPI",
+        "reason_url": "https://pypi.org/project/migkit/"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "AVGO",
+        "move_pct": -10.43,
+        "last": 291.53,
+        "market_cap": 1401967355051.85,
+        "reason": "Trump erupts at 'dumocrats' after trillions of dollars incinerated in stock plunge and vows US will come back stronger 'one way or another': 'Do not fear'",
+        "reason_url": "https://www.dailymail.com/news/article-16270245/Trump-blames-Democrats-stock-plunge.html"
+      },
+      {
+        "ticker": "INTC",
+        "name": "INTC",
+        "move_pct": -10.33,
+        "last": 52.25,
+        "market_cap": 299128200000.0,
+        "reason": "Intel Shares Rise 6% To Intraday High After Key Trading Signal",
+        "reason_url": "https://biztoc.com/x/f4486e5d39af0cce"
       }
     ]
   }
