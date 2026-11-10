@@ -1,0 +1,40 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-11-10T03:44:24+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-11-10",
+    "count": 3,
+    "movers": [
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "move_pct": 13.26,
+        "last": 508.58,
+        "market_cap": 834115552090.9241,
+        "reason": "Samsung's US chip plant nears trial run in December, mass production planned for 2027",
+        "reason_url": "https://www.thehindubusinessline.com/info-tech/samsungs-us-chip-plant-nears-trial-run-in-december-mass-production-planned-for-2027/article71681346.ece"
+      },
+      {
+        "ticker": "AMAT",
+        "name": "AMAT",
+        "move_pct": 11.37,
+        "last": 370.55,
+        "market_cap": 294067522816.1812,
+        "reason": "Marshals MIA Tonight? Here's Our Early Look at S02E08: \"Bad Medicine\"",
+        "reason_url": "https://bleedingcool.com/tv/marshals-mia-tonight-heres-our-early-look-at-s02e08-bad-medicine/"
+      },
+      {
+        "ticker": "LRCX",
+        "name": "LRCX",
+        "move_pct": 10.41,
+        "last": 221.31,
+        "market_cap": 276454030960.2661,
+        "reason": "LRCX 8-K & SEC Filings",
+        "reason_url": "https://biztoc.com/x/f503e8a208703168"
+      }
+    ]
+  }
+}
