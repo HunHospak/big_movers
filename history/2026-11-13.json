@@ -1,0 +1,40 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-11-13T02:02:14+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-11-13",
+    "count": 3,
+    "movers": [
+      {
+        "ticker": "ARM",
+        "name": "ARM",
+        "move_pct": 12.05,
+        "last": 203.36,
+        "market_cap": 213764600000.0,
+        "reason": "College Football Fans in Utter Disbelief After QB Kamario Taylor Receives $9M Offer From SEC Program",
+        "reason_url": "https://www.essentiallysports.com/ncaa-college-football-news-college-football-fans-in-utter-disbelief-after-qb-kamario-taylor-receives-nine-m-offer-from-sec-program/"
+      },
+      {
+        "ticker": "MU",
+        "name": "MU",
+        "move_pct": 11.89,
+        "last": 811.3,
+        "market_cap": 903373549389.28,
+        "reason": "Gang Dong Won And Kim Go Eun Confirmed To Star In New Historical Fantasy Romance Drama \u201cThe Twilight Between Us\u201d",
+        "reason_url": "http://www.soompi.com/article/1886157wpp/gang-dong-won-and-kim-go-eun-confirmed-to-star-in-new-historical-fantasy-romance-drama-the-twilight-between-us"
+      },
+      {
+        "ticker": "DELL",
+        "name": "DELL",
+        "move_pct": 11.75,
+        "last": 373.68,
+        "market_cap": 235994618417.5,
+        "reason": "Notre Dame Offensive Line is a Joe Moore Award Semifinalist",
+        "reason_url": "https://www.onefootdown.com/notre-dame-fighting-irish-football/86996/notre-dame-offensive-line-is-a-joe-moore-award-semifinalist"
+      }
+    ]
+  }
+}
