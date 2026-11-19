@@ -1,12 +1,22 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-11-18T03:04:01+00:00",
+  "generated_at": "2026-11-19T02:44:11+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-18",
-    "count": 0,
-    "movers": []
+    "as_of": "2026-11-19",
+    "count": 1,
+    "movers": [
+      {
+        "ticker": "UNH",
+        "name": "UNH",
+        "move_pct": -10.21,
+        "last": 349.91,
+        "market_cap": 313527275096.3428,
+        "reason": "Boston College Overcomes Poor Shooting, Defeats UNH 67-55",
+        "reason_url": "https://www.bcinterruption.com/boston-college-mens-basketball/52842/boston-college-overcomes-poor-shooting-defeats-unh-67-55"
+      }
+    ]
   }
 }
