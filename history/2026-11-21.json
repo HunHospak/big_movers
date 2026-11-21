@@ -1,0 +1,121 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-11-21T02:42:20+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-11-21",
+    "count": 12,
+    "movers": [
+      {
+        "ticker": "ARM",
+        "name": "ARM",
+        "move_pct": -14.09,
+        "last": 152.2,
+        "market_cap": 162853996734.61914,
+        "reason": "Stocks to watch: Voltas, Dilip Buildcon, Paytm, NLC India, Axis Bank, PNB",
+        "reason_url": "https://www.business-standard.com/markets/news/stocks-to-watch-voltas-dilip-buildcon-paytm-nlc-india-axis-bank-pnb-126112000127_1.html"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVDA",
+        "move_pct": -14.01,
+        "last": 125.53,
+        "market_cap": 3031172880523.6816,
+        "reason": "Anthropic hits the market. Was it enough to distract investors from a bruised AI sector and Nvidia's scandal?",
+        "reason_url": "https://www.fool.com.au/2026/11/20/anthropic-hits-the-market-was-it-enough-to-distract-investors-from-a-bruised-ai-sector-and-nvidias-scandal/"
+      },
+      {
+        "ticker": "MU",
+        "name": "MU",
+        "move_pct": -13.89,
+        "last": 594.51,
+        "market_cap": 672642424815.1748,
+        "reason": "Qualitative dynamics and a positivity-preserving implicit scheme for a reaction-diffusion rotavirus model with breastfeeding and vaccination",
+        "reason_url": "https://www.nature.com/articles/s41598-026-81084-x.pdf"
+      },
+      {
+        "ticker": "AMD",
+        "name": "AMD",
+        "move_pct": -13.25,
+        "last": 424.39,
+        "market_cap": 702393302769.5946,
+        "reason": "\u5c08\u5bb6\u770b\u76e4\u300b\u4eca\u4e09\u5927\u89c0\u5bdf \u5e74\u7dda\u4fdd\u885b\u6230\u3001\u878d\u8cc7\u65b7\u982d\u8207\u6050\u614c\u8ce3\u58d3\u6d29\u6d2a",
+        "reason_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_fe847fb6-d9b1-433c-86a4-a01e108269f7"
+      },
+      {
+        "ticker": "STX",
+        "name": "STX",
+        "move_pct": -12.35,
+        "last": 457.01,
+        "market_cap": 104911724665.8977,
+        "reason": "Seagate: A 0.17x PEG Is A Steal",
+        "reason_url": "https://biztoc.com/x/fcaf76f6dc4e855e"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "AVGO",
+        "move_pct": -12.19,
+        "last": 304.41,
+        "market_cap": 1453140684686.2046,
+        "reason": "Broadcom passes Saudi Aramco to become the world\u2019s eighth most valuable company",
+        "reason_url": "https://cryptobriefing.com/broadcom-passes-saudi-aramco-market-value/"
+      },
+      {
+        "ticker": "WDC",
+        "name": "WDC",
+        "move_pct": -12.02,
+        "last": 261.11,
+        "market_cap": 97739543285.33899,
+        "reason": "North Atlantic right whales named after Dolly Parton and Gonzo",
+        "reason_url": "https://www.popsci.com/environment/north-atlantic-right-whales-names-dolly-gonzo/"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "MRVL",
+        "move_pct": -11.69,
+        "last": 122.28,
+        "market_cap": 110023370952.61298,
+        "reason": "What Marvell\u2019s (MRVL) Lumentum Deal Adds to Its Anthropic Growth Story",
+        "reason_url": "https://biztoc.com/x/fc736f7653cfea7c"
+      },
+      {
+        "ticker": "ANET",
+        "name": "ANET",
+        "move_pct": -11.59,
+        "last": 167.62,
+        "market_cap": 211771493223.7433,
+        "reason": "Friday Bullet Points about Coming Attractions",
+        "reason_url": "https://tagn.wordpress.com/2026/11/13/friday-bullet-points-about-coming-attractions/"
+      },
+      {
+        "ticker": "DELL",
+        "name": "DELL",
+        "move_pct": -11.04,
+        "last": 278.02,
+        "market_cap": 176768653769.7525,
+        "reason": "Henredon Caley Reversible Sofa Chaise w/ Ottoman for $1,000 + free delivery, setup, & packaging removal",
+        "reason_url": "https://www.dealnews.com/Henredon-Caley-Reversible-Sofa-Chaise-w-Ottoman-for-1-000-free-delivery-setup-packaging-removal/22412740.html"
+      },
+      {
+        "ticker": "AMAT",
+        "name": "AMAT",
+        "move_pct": -10.71,
+        "last": 302.63,
+        "market_cap": 240166398050.0775,
+        "reason": "Pelaga di Bawah Naungan: Teduhan 50% Hasilkan Lebih Banyak Kapsul Berbanding Cahaya Penuh",
+        "reason_url": "https://fazlisyam.com/pelaga-di-bawah-naungan-teduhan-50-hasilkan-lebih-banyak-kapsul-berbanding-cahaya-penuh/"
+      },
+      {
+        "ticker": "LRCX",
+        "name": "LRCX",
+        "move_pct": -10.02,
+        "last": 183.27,
+        "market_cap": 228935574507.0343,
+        "reason": "\u79d1\u6797\u7af9\u5357\u6280\u8853\u4e2d\u5fc3\u52d5\u571f\u30012028\u5e74\u555f\u7528\uff01\u53f0\u7a4d\u96fb\u7c73\u7389\u5091\uff1a\u52a0\u901f\u6280\u8853\u8fed\u4ee3\u3001\u7e2e\u77ed\u958b\u767c\u9031\u671f",
+        "reason_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_debdc337-60e4-435b-adfa-082e46c69aff"
+      }
+    ]
+  }
+}
