@@ -1,0 +1,40 @@
+{
+  "service": "big_movers",
+  "schema_version": "1.0",
+  "generated_at": "2026-11-25T04:30:05+00:00",
+  "status": "active",
+  "ttl_hours": 30,
+  "data": {
+    "as_of": "2026-11-25",
+    "count": 3,
+    "movers": [
+      {
+        "ticker": "DELL",
+        "name": "DELL",
+        "move_pct": -11.83,
+        "last": 295.28,
+        "market_cap": 187742788043.8614,
+        "reason": "The Cyberattack Strategy of Tension",
+        "reason_url": "https://michelchossudovsky.substack.com/p/cyberattack-strategy-tension"
+      },
+      {
+        "ticker": "TXN",
+        "name": "TXN",
+        "move_pct": -11.25,
+        "last": 258.44,
+        "market_cap": 236154802697.92456,
+        "reason": "This Dollar General Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
+        "reason_url": "https://biztoc.com/x/65fabb9f8fa56aff"
+      },
+      {
+        "ticker": "MU",
+        "name": "MU",
+        "move_pct": -11.01,
+        "last": 629.79,
+        "market_cap": 712558999825.1067,
+        "reason": "What Did I Just Watch: Marquette 61, Milwaukee 57",
+        "reason_url": "https://www.anonymouseagle.com/marquette-womens-basketball/41182/golden-eagles-game-recap-milwaukee-panthers-traore"
+      }
+    ]
+  }
+}

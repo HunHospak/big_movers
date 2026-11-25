@@ -1,174 +1,39 @@
 {
   "service": "big_movers",
   "schema_version": "1.0",
-  "generated_at": "2026-11-24T05:27:14+00:00",
+  "generated_at": "2026-11-25T04:30:05+00:00",
   "status": "active",
   "ttl_hours": 30,
   "data": {
-    "as_of": "2026-11-24",
-    "count": 18,
+    "as_of": "2026-11-25",
+    "count": 3,
     "movers": [
-      {
-        "ticker": "NVDA",
-        "name": "NVDA",
-        "move_pct": 31.48,
-        "last": 165.05,
-        "market_cap": 3985462423690.796,
-        "reason": "Is Nvidia a Buy at $125? Here's My Honest Take",
-        "reason_url": "https://biztoc.com/x/a6f3bd5bc584a2ad"
-      },
       {
         "ticker": "DELL",
         "name": "DELL",
-        "move_pct": 20.46,
-        "last": 334.91,
-        "market_cap": 212940050430.91583,
-        "reason": "AI server prices jump up to 45% after contracts signed, putting buyers at suppliers' mercy",
-        "reason_url": "https://www.digitimes.com/news/a20261123VL206/ai-server-dell-price-hpe-lenovo.html"
-      },
-      {
-        "ticker": "MU",
-        "name": "MU",
-        "move_pct": 19.04,
-        "last": 707.7,
-        "market_cap": 800708220943.7185,
-        "reason": "tmpest added to PyPI",
-        "reason_url": "https://pypi.org/project/tmpest/"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "MRVL",
-        "move_pct": 18.37,
-        "last": 144.74,
-        "market_cap": 130232118703.24161,
-        "reason": "Marvell Just Plummeted 49% in a Month as Tech-Sector Collateral Damage Continues: Will MRVL Stock Hit $100 or $150 First?",
-        "reason_url": "https://biztoc.com/x/7159af495f3d7a05"
-      },
-      {
-        "ticker": "ZS",
-        "name": "ZS",
-        "move_pct": 17.67,
-        "last": 229.24,
-        "market_cap": 37378659865.20621,
-        "reason": "aiquants-chat-core added to PyPI",
-        "reason_url": "https://pypi.org/project/aiquants-chat-core/"
-      },
-      {
-        "ticker": "INTC",
-        "name": "INTC",
-        "move_pct": 16.34,
-        "last": 59.66,
-        "market_cap": 317092899188.99536,
-        "reason": "NVDA, INTC, MU, AMD Chip Stocks Rip Higher: Dan Ives Says \u2018Bears Feel Validated,\u2019 But There\u2019s No Stopping The AI Wave",
-        "reason_url": "https://biztoc.com/x/994f6c642b5b23e6"
-      },
-      {
-        "ticker": "ARM",
-        "name": "ARM",
-        "move_pct": 16.08,
-        "last": 176.67,
-        "market_cap": 189036898040.77148,
-        "reason": "Raiders\u2019 Ashton Jeanty Has Fernando Mendoza Message After Week 11 Loss",
-        "reason_url": "https://heavy.com/sports/nfl/las-vegas-raiders/ashton-jeanty-fernando-mendoza-loss/"
-      },
-      {
-        "ticker": "AMAT",
-        "name": "AMAT",
-        "move_pct": 14.62,
-        "last": 346.87,
-        "market_cap": 275275141178.4225,
-        "reason": "BAYAM BRAZIL DI TANAH RENDAH TROPIKA Tanpa Naungan Galakkan Pertumbuhan, Naungan 80% Jejaskan Hasil",
-        "reason_url": "https://fazlisyam.com/bayam-brazil-di-tanah-rendah-tropika-tanpa-naungan-galakkan-pertumbuhan-naungan-80-jejaskan-hasil/"
-      },
-      {
-        "ticker": "LRCX",
-        "name": "LRCX",
-        "move_pct": 14.45,
-        "last": 209.76,
-        "market_cap": 262026102098.09875,
-        "reason": "What Does Lam Research (LRCX) $15 Million STEM And AI Education Push Mean?",
-        "reason_url": "https://biztoc.com/x/a25246bbcef511d1"
-      },
-      {
-        "ticker": "TSM",
-        "name": "TSM",
-        "move_pct": 14.08,
-        "last": 363.6,
-        "market_cap": 1885801612274.119,
-        "reason": "\u7f8e\u80a1\u91cd\u9ede\u4e00\u6b21\u770b\u300bAnthropic\u4e0a\u5e02\uff01Google\u3001\u535a\u901a\u7838\u9322\u5361\u4f4d \u80a1\u50f9\u80fd\u8ffd\uff1f",
-        "reason_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_a021bc8e-2629-420b-86cc-b6cd7cef1670"
-      },
-      {
-        "ticker": "WDC",
-        "name": "WDC",
-        "move_pct": 13.84,
-        "last": 297.25,
-        "market_cap": 111267591710.25,
-        "reason": "Computer running super slow",
-        "reason_url": "https://www.bleepingcomputer.com/forums/t/820082/computer-running-super-slow/"
-      },
-      {
-        "ticker": "STX",
-        "name": "STX",
-        "move_pct": 13.8,
-        "last": 520.1,
-        "market_cap": 119394727186.38074,
-        "reason": "11k-Mile 2014 Ford F-150 STX 4\u00d74 at No Reserve",
-        "reason_url": "https://bringatrailer.com/listing/2014-ford-f-150-36/"
-      },
-      {
-        "ticker": "SMCI",
-        "name": "SMCI",
-        "move_pct": 13.3,
-        "last": 24.53,
-        "market_cap": 16170847765.16551,
-        "reason": "Wall Street Sees 82% Upside in Super Micro Computer (SMCI), but Margin Risks Remain",
-        "reason_url": "https://biztoc.com/x/8c320116984ecf3a"
-      },
-      {
-        "ticker": "ORCL",
-        "name": "ORCL",
-        "move_pct": 12.34,
-        "last": 113.68,
-        "market_cap": 354421051620.729,
-        "reason": "Jensen Huang's next move: Wall Street floats Intel and SpaceX",
-        "reason_url": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html"
-      },
-      {
-        "ticker": "TSLA",
-        "name": "TSLA",
-        "move_pct": 11.46,
-        "last": 385.46,
-        "market_cap": 1523630044089.152,
-        "reason": "Show HN: Stock News API \u2013 free headlines with sentiment for 10k US stocks",
-        "reason_url": "https://www.quotelinks.com/api/stock-news/"
-      },
-      {
-        "ticker": "PLTR",
-        "name": "PLTR",
-        "move_pct": 11.06,
-        "last": 159.36,
-        "market_cap": 383977518927.2805,
-        "reason": "Nvidia stock is plunging, but the price of its older AI chips is soaring",
-        "reason_url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_bbf453ef-99b5-40dc-8edf-70a1f9dec2bc"
+        "move_pct": -11.83,
+        "last": 295.28,
+        "market_cap": 187742788043.8614,
+        "reason": "The Cyberattack Strategy of Tension",
+        "reason_url": "https://michelchossudovsky.substack.com/p/cyberattack-strategy-tension"
       },
       {
         "ticker": "TXN",
         "name": "TXN",
-        "move_pct": 10.4,
-        "last": 291.19,
-        "market_cap": 266080780546.92456,
-        "reason": "pytrat-fastapi added to PyPI",
-        "reason_url": "https://pypi.org/project/pytrat-fastapi/"
+        "move_pct": -11.25,
+        "last": 258.44,
+        "market_cap": 236154802697.92456,
+        "reason": "This Dollar General Analyst Turns Bullish; Here Are Top 5 Upgrades For Monday",
+        "reason_url": "https://biztoc.com/x/65fabb9f8fa56aff"
       },
       {
-        "ticker": "QCOM",
-        "name": "QCOM",
-        "move_pct": 10.3,
-        "last": 165.38,
-        "market_cap": 176956605224.60938,
-        "reason": "Merge tag 'pinctrl-v7.4-2' of git://git.kernel.org/pub/scm/linux/kernel/git/linusw/linux-pinctrl",
-        "reason_url": "https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/commit/?id=b152d7176339f11f05457799be609268e1a61cf2"
+        "ticker": "MU",
+        "name": "MU",
+        "move_pct": -11.01,
+        "last": 629.79,
+        "market_cap": 712558999825.1067,
+        "reason": "What Did I Just Watch: Marquette 61, Milwaukee 57",
+        "reason_url": "https://www.anonymouseagle.com/marquette-womens-basketball/41182/golden-eagles-game-recap-milwaukee-panthers-traore"
       }
     ]
   }
